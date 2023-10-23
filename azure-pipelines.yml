@@ -8,7 +8,7 @@ trigger:
 
 pool:
   vmImage: 'windows-latest'
-  name: Default
+  name: Testathee
 
 variables:
   solution: '**/*.sln'
